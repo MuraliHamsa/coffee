@@ -53,12 +53,12 @@
                      </div>
                      <div class="col-lg-4 col-md-4 col-xs-12 col-sm-6">
                         <div class="address widget">
-                           <h3 class="title">Bengaluru</h3>
+                           <h3 class="title">USA</h3>
                            <ul class="contact-us">
                               <li>
                                  <i class="fa fa-map-marker"></i>
                                  <p>
-                                    <strong class="contact-pad">Address:</strong><address> #460, 3rd floor, Opposite Fern Hill Apartments, above bluedart courier,<br> outer Ring Road,<br>service road Teachers Colony HSR Layout,<br> Bengaluru-560034</address>
+                                    <strong class="contact-pad">Address:</strong><address>L300, E Royal Lane, Suite 127, Irving-Texas,<br>  TX 75039, USA.</address>
                                  </p>
                               </li>
                               <li>
@@ -75,7 +75,7 @@
                               </li>
                            </ul>
                         </div>
-                        <div class="contact-info widget">
+                        <!-- <div class="contact-info widget">
                            <h3 class="title">Australia</h3>
                            <ul class="contact-us">
                               <li>
@@ -97,8 +97,8 @@
                                  </p>
                               </li>
                            </ul>
-                        </div>
-                        <div class="follow widget">
+                        </div> -->
+                        <!-- <div class="follow widget">
                            <h3 class="title">Singapore</h3>
                            <ul class="contact-us">
                               <li>
@@ -120,7 +120,7 @@
                                  </p>
                               </li>
                            </ul>
-                        </div>
+                        </div> -->
                      </div>
                   </div>
                   <!-- <div class="row">

@@ -7,7 +7,7 @@
 <!-- Mirrored from demo.fifothemes.com/pixma/General/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 09 Dec 2017 05:54:15 GMT -->
 <head>
       <meta charset="utf-8">
-      <title>Xprotean Pro</title>
+      <title>Pro Accurate Data</title>
       <meta name="description" content="www.xproteanpro.in">
       <meta name="author" content="www.xproteanpro.in">
       <!-- Mobile Metas -->
@@ -104,7 +104,7 @@
                   <div class="logo pull-left">
                      <h1>
                         <a href="{{ url('/home') }}">
-                        <img src="{{asset('public/img/logo.png')}}" alt="pixma" width="200" height="80">
+                        <img src="{{asset('public/img/yadav.png')}}" alt="pixma" width="200" height="70">
                         </a>
                      </h1>
                   </div>
@@ -143,26 +143,9 @@
                            </span>
                            </a>
                            </li>
-                         <!--   <ul>
-                              <li><a href="shortcodes.html" class="sf-with-ul">Shortcodes</a></li>
-                              <li><a href="icons.html" class="sf-with-ul">Icons</a></li>
-                              <li><a href="pricing-table.html" class="sf-with-ul">Pricing Tables</a></li>
-                              <li>
-                                 <a href="#" class="sf-with-ul"> 
-                                 Third Level Menu 
-                                 <span class="sf-sub-indicator pull-right">
-                                 <i class="fa fa-angle-right "></i>
-                                 </span>
-                                 </a>
-                                 <ul>
-                                    <li><a href="#" class="sf-with-ul">Menu Item</a></li>
-                                    <li><a href="#" class="sf-with-ul">Menu Item</a></li>
-                                    <li><a href="#" class="sf-with-ul">Menu Item</a></li>
-                                 </ul>
-                              </li>
-                           </ul> -->
                         
-                        <li>
+                        
+                        <!-- <li>
                            <a href="#" class="sf-with-ul">
                               
                            Expertise
@@ -177,8 +160,8 @@
                               <li><a href="{{ url('/migration') }}" class="sf-with-ul">Migration To Cloud</a></li>
                               <li><a href="{{ url('/cyber') }}" class="sf-with-ul">Cyber Security</a></li> 
                            </ul>
-                        </li>
-                        <li>
+                        </li> -->
+                        <!-- <li>
                            <a href="#" class="sf-with-ul">
                            Solutions
                            <span class="sf-sub-indicator">
@@ -190,7 +173,7 @@
                               <li><a href="{{ url('/saas') }}" class="sf-with-ul">Saas Tenant</a></li>
                               <li><a href="{{ url('/pharma') }}" class="sf-with-ul">Pharma SFA</a></li>
                               <!-- <li><a href="{{ url('/cloud') }}" class="sf-with-ul">Cloud File</a></li> -->
-                              <li><a href="{{ url('/training') }}" class="sf-with-ul">Training Management System</a></li>
+                              <!-- <li><a href="{{ url('/training') }}" class="sf-with-ul">Training Management System</a></li>
                               <li><a href="{{ url('/idm') }}" class="sf-with-ul">IDM</a></li>
                               <li><a href="{{ url('/cloudsec') }}" class="sf-with-ul">Cloud Security</a></li>
                               <li><a href="{{ url('/property') }}" class="sf-with-ul">Property Management</a></li>
@@ -198,8 +181,8 @@
                               <li><a href="{{ url('/quality') }}" class="sf-with-ul">Quality Management</a></li>
                               <li><a href="{{ url('/businesspro') }}" class="sf-with-ul">Business Process Outsourcing</a></li>
                            </ul>
-                        </li>
-                              <li>
+                        </li>  -->-->
+                              <!-- <li>
                            <a href="#" class="sf-with-ul">
                            Products
                            <span class="sf-sub-indicator">
@@ -216,11 +199,11 @@
                               <li><a href="{{ url('/eschool') }}" class="sf-with-ul">E-School Management</a></li>
                               <li><a href="{{ url('/saving') }}" class="sf-with-ul">Saving Management</a></li>
                               <li><a href="{{ url('/cor') }}" class="sf-with-ul">Corporate Management</a></li>
-                              <li><a href="{{ url('/billing') }}" class="sf-with-ul">Billing Management</a></li>
+                              <li><a href="{{ url('/billing') }}" class="sf-with-ul">Billing Management</a></li> -->
                               <!-- <li><a href="{{ url('/businesspro') }}" class="sf-with-ul">Business Process Outsourcing</a></li> -->
-                           </ul>
-                        </li>
-                                 <li>
+                          <!--  </ul>
+                        </li> -->
+                                 <!-- <li>
                            <a href="#" class="sf-with-ul">
                            Mechanical
                            <span class="sf-sub-indicator">
@@ -234,13 +217,9 @@
                               <li><a href="{{ url('/solid') }}" class="sf-with-ul">Solid Works</a></li>
                               <li><a href="{{ url('/production') }}" class="sf-with-ul">Production</a></li>
                               <li><a href="{{ url('/qualityeng') }}" class="sf-with-ul">Quality Engineering</a></li>
-                             <!--  <li><a href="{{ url('/eschool') }}" class="sf-with-ul">E-School Management</a></li>
-                              <li><a href="{{ url('/saving') }}" class="sf-with-ul">Saving Management</a></li>
-                              <li><a href="{{ url('/cor') }}" class="sf-with-ul">Corporate Management</a></li>
-                              <li><a href="{{ url('/billing') }}" class="sf-with-ul">Billing Management</a></li> -->
-                              <!-- <li><a href="{{ url('/businesspro') }}" class="sf-with-ul">Business Process Outsourcing</a></li> -->
+                            
                            </ul>
-                        </li>
+                        </li> -->
                         <li><a href="{{ url('/contact') }}">
                            <i class="fa fa-address-book"></i>
                             Contact-Us
@@ -248,10 +227,7 @@
                               
                             </span>
                             </a>
-                            <!-- <ul>
-                              <li><a href="contact.html" class="sf-with-ul">Contact</a></li>
-                              <li><a href="contact-2.html" class="sf-with-ul">Contact 2</a></li>
-                            </ul> -->
+                           
                          </li>
                      </ul>
                   </nav>
@@ -271,13 +247,14 @@
                      <section class="col-lg-3 col-md-3 col-xs-12 col-sm-3 footer-one">
                         <h3>LATEST POSTS</h3>
                         <p> 
-                           CUSTOMER CAN EXPERIENCE NEW ERP MODULE.E SCHOOL MANAGEMENT SYSTEM UPDATED WITH LIVE COURSE AND CLASS ROOMS.NEXT AUSTRALIAN LEAD PROCESS IN PUNE AND HYDERABAD.
+                          Easiest way to grow your Email Database,How to solve the biggest problems with Chief Executive Officer.
                         </p>
                      </section>
                      <section class="col-lg-3 col-md-3 col-xs-12 col-sm-3 footer-two">
                         <h3>RECENT NEWS</h3>
                          <p> 
-                           LAUNCHED LATEST VERSION OF 7.3.0 ERP.UPGRADED THE CLOUD MANAGEMENT WITH ENHANCED SECURITY.UPDATED FLEET TRACKING SYSTEM V.8.6.3. 
+                          10 Effective ways to create greater roi with your B2B email lists,
+                          How to solve the biggest problems with Chief Executive Officer.
                         </p>
                      </section>
                      <section class="col-lg-6 col-md-6 col-xs-12 col-sm-6 footer-three">
@@ -286,7 +263,7 @@
                            <li>
                               <i class="fa fa-map-marker" style="color: #ce3017;"></i>
                               <p> 
-                                 <strong class="contact-pad" style="color: white;">Address:</strong> #460, 3rd floor, Opposite Fern Hill Apartments, above bluedart courier, outer Ring Road,service road Teachers Colony HSR Layout, <br>Bengaluru-560102.
+                                 <strong class="contact-pad" style="color: white;">Address:</strong> L300, E Royal Lane, Suite 127, Irving-Texas,<br>  TX 75039, USA.
                               </p>
                            </li>
                            <li>
@@ -312,7 +289,7 @@
             <div class="footer-bottom">
                <div class="container">
                   <div class="row">
-                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6 " style="color: white;">©2017 ALL RIGHTS RESERVED XPROTEAN PRO PVT LTD. </div>
+                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6 " style="color: white;">©2019 ALL RIGHTS RESERVED Pro Accurate Data </div>
                    <!--   <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6 ">
                         <ul class="social social-icons-footer-bottom">
                            <li class="facebook"><a href="#" data-toggle="tooltip" title="Facebook"><i class="fa fa-facebook"></i></a></li>

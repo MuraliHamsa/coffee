@@ -17,7 +17,7 @@
                            data-start="1000"
                            data-easing="easeOutQuint"
                            data-endeasing="easeOutQuint">
-                           <h3>We Create The Opportunities</h3>
+                           <h3>MAILING LISTS BY INDUSTRY</h3>
                         </div>
                        <!--  <div class="caption list_slide lfb tp-caption start" 
                            data-easing="easeOutExpo" 
@@ -34,25 +34,27 @@
                            data-easing="easeOutExpo" 
                            data-start="1800" 
                            data-speed="1200" 
-                           data-y="220" 
-                           data-x="40">
+                           data-y="300" 
+                           data-x="50">
                            <!-- <div class="list-slide"> -->
-                               <img src="{{asset('public/img/slider/mob3.png')}}" alt="iMac Responsive">
+                               <img src="{{asset('public/img/logo3.png')}}" alt="iMac Responsive" width="100px" height="100px">
+
                               <!-- <h3 class="list-slide" style="color: #165b71;"> We Create The Opportunities</h3> -->
                            <!-- </div> -->
                         </div>
-                        <!-- <div class="caption list_slide lfb tp-caption start" 
+
+                        <div class="caption list_slide lfb tp-caption start" 
                            data-easing="easeOutExpo" 
                            data-start="2200" 
                            data-speed="1350" 
                            data-y="260" 
                            data-x="40">
                            <div class="list-slide">
-                              <i class="fa fa-code slide-icon"></i>
-                              <h5 class="dblue"> Working Ajax Contact Form </h5>
+                              <!-- <i class="fa fa-code slide-icon"></i> -->
+                              <h3 class="dblue" style="color:white;"> Welcome to Pro Accurate Data </h3>
                            </div>
-                        </div> -->
-                       <!--  <div class="caption lfb caption_button_1 fadeout tp-caption start"
+                        </div>
+                        <!-- <div class="caption lfb caption_button_1 fadeout tp-caption start pull-right"
                            data-x="40"
                            data-y="330"
                            data-speed="900"
@@ -154,7 +156,7 @@
                            data-speed="300"
                            data-start="1400"
                            data-easing="easeOutExpo">
-                           <img src="{{asset('public/img/slider/mob.png')}}" alt="iMac Responsive">
+                           <img src="{{asset('public/img/1.jpeg')}}" alt="iMac Responsive" width="300px" height="200px">
                         </div>
                         <div class="caption lfl"
                            data-x="323"
@@ -162,7 +164,7 @@
                            data-speed="300"
                            data-start="1500"
                            data-easing="easeOutExpo">
-                           <img src="{{asset('public/img/slider/php.png')}}" alt="iPad Responsive">
+                           <img src="{{asset('public/img/2.jpg')}}" alt="iPad Responsive" width="300px" height="200px">
                         </div>
                         <!-- <div class="caption lfl"
                            data-x="472"
@@ -200,9 +202,9 @@
                            </div>
 
                            <div class="content-box-info">
-                              <h4>Information Technology</h4>
+                              <h4>Lake Global Reach Data’s Industry</h4>
                               <p>
-                                 Information Technology Services (ITS) caters to the diverse technology needs of University of Iowa students, employees, and visitors. ITS provides technical support, resources, and services to help everyone at the UI work smarter, faster, and safer.
+                                 Lake Global Reach Data is the most successful brand in providing authentic and accurate mailing lists. Our Industry Mailing lists cover more than 100 industries to enable successful sales and marketing campaigns.
                               </p>
                            </div>
                         </div>
@@ -218,9 +220,9 @@
                               </div>
                            </div>
                            <div class="content-box-info">
-                              <h4>Digital Marketing</h4>
+                              <h4>Oil and Gas Industry Mailing List</h4>
                               <p>
-                                Customers are actively looking for solutions just like yours. The question is, are your products and services easy to find where it matters most. Do your messages connect and inspire action in a meaningful way.
+                               The Oil and Gas Industry is one among the biggest and the most lucrative fields in the world economy, which contributes higher GDP of developing countries. However, the Oil and Gas industry is faced with many challenges as the demand for exploration, production and transportation increases. 
                               </p>
                            </div>
                         </div>
@@ -236,9 +238,9 @@
                               </div>
                            </div>
                            <div class="content-box-info">
-                              <h4>Out Sourcing</h4>
+                              <h4>Printing and Publishing Industry</h4>
                               <p>
-                                 Outsourcing is not just a method of gaining a one-time cost advantage, but an effective strategy for gaining and maintaining competitive advantages when executed as part of an overall sourcing strategy.
+                                 The printing and publishing industry is one of the employment generating industries in the world. It can also be said as the oldest business where people started it out with publishing houses. Today, the technology has seeped into digital publishing taking up much of the revenue stream.
                               </p>
                            </div>
                         </div>
@@ -256,9 +258,9 @@
                               </div>
                            </div>
                            <div class="content-box-info">
-                              <h4>Management Services</h4>
+                              <h4>Telecom Decision Makers</h4>
                               <p>
-                                 Achieve maximum cost savings and business agility. Ensure that your cloud-based resources are working optimally.
+                                 Lake Global Reach Data highly targeted Telecom Decision Makers Mailing List has been developed by closely interacting within the top industry sources to develop a marketing strategy promising increased deliverability. Staying on the top within the industry requires collecting influential information like the who’s who, which’s where and how to reach them quickly and effectively.
                               </p>
                            </div>
                         </div>
@@ -274,9 +276,9 @@
                               </div>
                            </div>
                            <div class="content-box-info">
-                              <h4>Creative</h4>
+                              <h4>MINING INDUSTRY</h4>
                               <p>
-                                 A part of the economy that creates wealth by offering creativity for hire to other businesses. Creative Services also means a department within a company that does creative work such as writing, designing, and production.
+                                Mining Industry is one of the biggest industries in the world. While it exists in many countries, London is known as the capital of global mining houses. Places like Rio Tinto Group, BHP Billiton, and Anglo American PLC tops the list. The USA is also one among the largest mining countries but ranks second since it is mostly dominated by the coal and other non-metal minerals.
                               </p>
                            </div>
                         </div>
@@ -292,14 +294,72 @@
                               </div>
                            </div>
                            <div class="content-box-info">
-                              <h4>24/7 Support</h4>
+                              <h4>BEAUTY INDUSTRY</h4>
                               <p>
-                                 provides around the clock professional customer support services and complete call center operations. Our client base consists of a wide range of international companies that are specializing in various industries.
+                                 Those who are concerned about beauty and cosmetics want to look and feel radiant all day long. If you have any products and services to sell to the companies, you can avail Lake Global Reach  Data’s beauty and cosmetics mailing list and reach your target market with at most ease.
                               </p>
                            </div>
                         </div>
                      </div>
                   </div>
+                  <div class="row">
+                     <div class="col-lg-4 col-md-4 col-sm-4">
+                        <div class="content-box ch-item">
+                           <div class="ch-info-wrap">
+                              <div class="ch-info">
+                                 <div class="ch-info-front ch-img-1"><i class="fa fa-cog"></i></div>
+                                 <div class="ch-info-back">
+                                    <i class="fa fa-cog"></i>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="content-box-info">
+                              <h4>INSURANCE SERVICE INDUSTRY</h4>
+                              <p>
+                                 Target insurance industry which includes Auto Insurance, Gap Insurance, Health Insurance, Accident, Sickness, Unemployment Insurance, Casualty, Life, Property and more, with Mail Prospects Insurance industry mailing list . With our Insurance industry mailing list you can contact the right decision makers or the business executives, worldwide in the Insurance sector.
+
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-lg-4 col-md-4 col-sm-4">
+                        <div class="content-box ch-item">
+                           <div class="ch-info-wrap">
+                              <div class="ch-info">
+                                 <div class="ch-info-front ch-img-1"><i class="fa fa-compress"></i></div>
+                                 <div class="ch-info-back">
+                                    <i class="fa fa-compress"></i>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="content-box-info">
+                              <h4>ADVERTISING MEDIA</h4>
+                              <p>
+                               Lake Global Reach Data can be the answer for all your queries to generate effective leads and branding activities. And targeting to this section of executives would be easier than ever with Lake Global Reach Data’s targeted advertising and media mailing list. Updated quarterly to provide the most, timely accurate information and all our list of advertising agencies mailing databases cover key industries from Design to Retail.
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-lg-4 col-md-4 col-sm-4">
+                        <div class="content-box ch-item">
+                           <div class="ch-info-wrap">
+                              <div class="ch-info">
+                                 <div class="ch-info-front ch-img-1"><i class="fa fa-clock-o"></i></div>
+                                 <div class="ch-info-back">
+                                    <i class="fa fa-clock-o"></i>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="content-box-info">
+                              <h4>AUTOMOBILE INDUSTRY</h4>
+                              <p>
+                                Direct Mailing marketing has been one of the supreme tools of direct marketing services, which gains an upper hand while approaching and serving an industry like automotive. At Lake Global Reach Data we acknowledge the same fact and strive to bring an all comprehensive list including all major marketing details so that marketers can reach key decision makers with in half the duration claimed by others.
+
+                              </p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>   
                </div>
             </div>
 
@@ -311,15 +371,19 @@
                <div class="container">
                   <div class="row">
                      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                        <h3  class="title">Our Models</h3>
+                        <h3  class="title">Other Services</h3>
                         <div class="row">
                            <div class="circular-nav">
                               <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 animate_afl">
                                  <div id="cn-tabs">
                                     <div class="service service-1">
                                        <div class="cn-content">
-                                          <h4>IT Services</h4>
-                                          <p> Information technology (IT) is the application of computers to store, study, retrieve, transmit and manipulate data, or information, often in the context of a business or other enterprise.IT is considered a subset of information and communications technology (ICT). In 2012, Zuppo proposed an ICT hierarchy where each hierarchy level "contain[s] some degree of commonality in that they are related to technologies that facilitate the transfer of information and various types of electronically mediated communications".The term is commonly used as a synonym for computers and computer networks, but it also encompasses other information distribution technologies such as television and telephones. Several industries are associated with information technology, including computer hardware, software, electronics, semiconductors, internet, telecom equipment, and e-commerce.</p>
+                                          <h4>BUSINESS SERVICES INDUSTRY EXECUTIVES LIST</h4>
+                                          <p> Lake Global Reach Data Services’ Business Services Industry Executives List offers sales teams the ability to connect with the decision makers involved in delivering business services to multiple industries. This list helps you skip all the unwanted people who come on your way to connect with the actual decision makers of the company.
+
+We are among the front runners in possessing the most updated contacts of prospective customers and business technology users. 
+The fields covered by Lake Global Reach Data include complete contact details like:
+</p>
                                           <!-- <a href="#">Read More <i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></a> -->
                                           <div class="clearfix"></div>
                                        </div>
@@ -327,40 +391,48 @@
                                     </div>
                                     <div class="service service-2">
                                        <div class="cn-content">
-                                          <h4>Mobility Services</h4>
-                                          <p> Mobility continues to be one of the most disruptive technologies in its impact and reach. Enterprises are constantly challenged to keep pace with accelerated proliferation of devices with multiple form factors on different platforms. Enterprises are ﬁnding it difficult to maximize the potential of mobility opportunities for consumer engagement, workplace solutions and partner engagement.Mindtree with its integrated suite of service offerings deﬁnes, architects, implements and maintains mobility solutions.We understand the importance of customer experience for any mobile solution and our team of user experience designers ensures our solutions deliver compelling and engaging experiences. Our solutions enable mobile users to efficiently create, share or consume relevant information on the move.</p>
+                                          <h4>3D PRINTING PROFESSIONALS EMAIL LIST
+</h4>
+                                          <p> Throughout the world, 3D printing technology has grown with $3.07B in 2013 and is expected to reach $12.8 billion by the end of 2018 and is expected to exceed $21B worldwide by 2020. Industry experts predict that, it’s a huge change the world is going to witness in the coming years and 3D printing is going to transform almost every major industry and destined to change the way we live 3D printing, in other words, additive manufacturing is a process of making a three dimensional solid object that can be drawn out of thin air from a digital file. Creating 3D printed object is achieved using additive processes. In an additive process, the object is created using many layers until the structure is completely created. Each layer in the object is in the form of thinly sliced horizontal cross-section of the eventual object.
+</p>
                                           <!-- <a href="#">Read More <i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></a> -->
                                           <div class="clearfix"></div>
                                        </div>
                                     </div>
                                     <div class="service service-3">
                                        <div class="cn-content">
-                                          <h4>Bomt</h4>
-                                          <p>Leo_Technosoft_Logo EXPERTISE SOLUTIONS COMPANY INDUSTRIES PORTFOLIO BUILD Product Development SERVE IT Services MANAGE Cyber Security EXTEND Enterprise Mobility Build-Operate-Market-Transform (BOMT) Model BOMT model is an innovative hybrid partner product development services that offers a low-risk, hassle-free, cost-effective global sourcing strategy, which blends the advantages of traditional outsourcing trends. This business model is for StartUps, Entrepreneurs and ISVs that creates opportunities for increasing revenue and maximizing ROI thus enabling them to achieve business transformation together. The business model feasibility of BOMT explains how much it can be helpful for Startups. The gestation of a business idea results in the incubation of a product or service that the business will offer.</p>
+                                          <h4>EDUCATION INDUSTRY MAILING LIST</h4>
+                                          <p>If you wish to target educational institutions worldwide that offer academic and professional courses, then contact Mail Prospects’ for its exclusive Education Sector/industry mailing list. Our customized education industry mailing list can enable you to reach thousands of decision makers or the executives within the education industry worldwide.
+
+Lake Global Reach Data provides the most accurate and latest education mailing list that consists of contact details of all the decision makers in the education industry. We provide a safe and undated mailing list that will help in rolling out your direct marketing campaigns and generate quality leads.
+</p>
                                           <!-- <a href="#">Read More <i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></a> -->
                                        </div>
                                        <div class="clearfix"></div>
                                     </div>
                                     <div class="service service-4">
                                        <div class="cn-content">
-                                          <h4>SaaS</h4>
-                                          <p>Software as a service (SaaS) allows users to connect to and use cloud-based apps over the Internet. Common examples are email, calendaring and office tools (such as Microsoft Office 365).SaaS provides a complete software solution which you purchase on a pay-as-you-go basis from a cloud service provider. You rent the use of an app for your organisation and your users connect to it over the Internet, usually with a web browser. All of the underlying infrastructure, middleware, app software and app data are located in the service provider’s data center.SaaS-Tenant enables a single instance of your application to serve thousands of tenants. SaaS multi tenant application saves users from arduous task of building robust, scalable cloud solution and let them focus on their business logic.</p>
+                                          <h4>IT Executives List</h4>
+                                          <p>Buy Prepackaged & Customized IT Executives List, IT Decision Makers Lists and IT Executives Mailing List By SIC Code That Let You Reach Targeted Markets In The USA, UK, Canada, Europe & Australia!
+
+IT jobs in the United States are expected to grow much faster than other employment avenues, and will represent a sizable chunk of the economy.</p>
                                           <!-- <a href="#">Read More <i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></a> -->
                                        </div>
                                        <div class="clearfix"></div>
                                     </div>
                                     <div class="service service-5">
                                        <div class="cn-content">
-                                          <h4>ERP</h4>
-                                          <p> The term ERP was coined in 1990 by Gartner1, but its roots date to the 1960s. Back then, the concept applied to inventory management and control in the manufacturing sector.ERP is usually referred to as a category of business-management software typically a suite of integrated applications—that an organization can use to collect, store, manage and interpret data from these many business.Implementing ERP typically requires changes in existing business processes. Poor understanding of needed process changes prior to starting implementation is a main reason for project failure. ERP systems can be extended with third–party software.ERP vendors typically provide access to data and features through published interfaces. Extensions offer features such as:Reporting, and republishing.Implementing ERP typically requires changes in existing business processes.</p>
+                                          <h4>Food and Beverage Mailing List</h4>
+                                          <p> If you’ve been looking at marketing your products to the Food and Beverage industry, Lake Global Reach Data can immeasurably ease the pain of launching a campaign. Our comprehensive business mailing lists will give you the ability to effortlessly reach out to food and beverage industry executives without the time and labor-intensive process of prospecting. And reaching out to executives is perhaps the most vital part of any Lake Global Reach sales campaign, especially one aimed at the Food and Beverage industry.</p>
                                           <!-- <a href="#">Read More <i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></a> -->
                                        </div>
                                        <div class="clearfix"></div>
                                     </div>
                                     <div class="service service-6">
                                        <div class="cn-content">
-                                          <h4>DATA MANAGEMENT</h4>
-                                          <p>THE CONCEPT OF "DATA MANAGEMENT" AROSE IN THE 1980S AS TECHNOLOGY MOVED FROM SEQUENTIAL PROCESSING (FIRST CARDS, THEN TAPE) TO RANDOM ACCESS PROCESSING.The scope and scale of structured and unstructured data that financial firms manage continues to grow exponentially, calling for innovative approaches that can deliver automated, accurate and timely decision making.Data management initiatives improve data quality by assigning a team responsible for data's accuracy, accessibility, consistency, and completeness, among other metrics.Data management initiatives are aimed at achieving a number of objectives including offering better visibility to internal and  to aid the efficiency of enterprise knowledge workers by reducing confusion.</p>
+                                          <h4>HEALTHCARE EXECUTIVES EMAIL LIST</h4>
+                                          <p>When you choose Lake Global Reach Data as your health care list vendor, we give you access to the decisions makers in healthcare institutions across North America, Europe, Asia and Australia. We’ll also segment your healthcare mailing list on the basis of several selects including,
+Lake Global Reach Data’s Healthcare email database can massively extend your marketing coverage of the healthcare industry in the Northern Hemisphere. Our health care lists are unsurpassed in terms of reach and place hundreds of thousands of key healthcare executives at your fingertips. Furthermore, you can narrow down your target markets and create customized marketing material aimed at specific industry divisions, </p>
                                           <!-- <a href="#">Read More <i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></a> -->
                                        </div>
                                        <div class="clearfix"></div>
@@ -375,16 +447,20 @@
                                     </div>
                                     <div class="service service-8">
                                        <div class="cn-content">
-                                          <h4>Catia</h4>
-                                          <p>CATIA (an acronym of computer aided three-dimensional interactive application, pronounced /kəˈtiə/) is a multi-platform software suite for computer-aided design (CAD), computer-aided manufacturing (CAM), computer-aided engineering (CAE), PLM and 3D, developed by the French company Dassault Systèmes.CATIA started as an in-house development in 1977 by French aircraft manufacturer Avions Marcel Dassault, at that time customer of the CADAM software to develop Dassault's Mirage fighter jet. It was later adopted by the aerospace, automotive, shipbuilding, and other industries.Initially named CATI (conception assistée tridimensionnelle interactive – French for interactive aided three-dimensional design ), it was renamed CATIA in 1981 when Dassault created a subsidiary to develop.</p>
+                                          <h4>Manufacturing Industry Mailing List</h4>
+                                          <p>Much of industrial marketing depends on contacting upper level management and presenting your sales pitch to them. However, instead of wading through a sea of junior corporate bureaucrats until you’re finally admitted into the inner sanctum, we propose an easier, faster and more cost-effective way to get in touch with top manufacturing executives – targeted direct marketing.
+</p>
                                           <!-- <a href="#">Read More <i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></a> -->
                                        </div>
                                        <div class="clearfix"></div>
                                     </div>
                                     <div class="service service-9">
                                        <div class="cn-content">
-                                          <h4>Quality Engineering</h4>
-                                          <p>IT services are increasingly interlinked in workflows across platform boundaries, device and organisational boundaries, for example in cyber-physical systems, business-to-business workflows or when using cloud services. In such contexts, quality engineering facilitates the necessary all-embracing consideration of quality attributes.In such contexts an "end-to-end" view of quality from management to operation is vital. Quality Engineering integrates methods and tools from Enterprise architecture-management, software-product management, IT service management, software engineering and Systems Engineering, and from software quality management and information security management. Software product management is the process of managing software that is built and implemented as a product.</p>
+                                          <h4>REAL ESTATE INDUSTRY MAILING LIST</h4>
+                                          <p>There are a variety of reasons why one would need a comprehensive real estate agents list. Maybe you are looking forward to taking advantage of business-to-business marketing and offer a service valuable to real estate agents. Or, you are in need of moving real estate business in the unknown areas.
+
+Real Estate agents operate in a competitive market with commercial property sellers often search for a listing agent. With the increasing cost of advertising and marketing, real estate agents database can be a valuable resource. Nurtured consistently in targeted marketing channels, this database will certainly grow your business.
+</p>
                                           <!-- <a href="#">Read More <i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></a> -->
                                        </div>
                                        <div class="clearfix"></div>
@@ -418,7 +494,7 @@
             <!-- Features End --> 
 
                 <!-- Recent works start-->
-            <div class="recentworks bottom-pad">
+            <!-- <div class="recentworks bottom-pad">
                <div class="container">
                   <h3 class="title">Our Team</h3>
                   <div class="row">
@@ -530,7 +606,7 @@
                                        </div>
                                     </div>
                                  </div> -->
-                              </div>
+                           <!--    </div>
                            </div>
                            <div class="clearfix"></div>
                         </div>
@@ -601,7 +677,7 @@
                                           <div class="clearfix"></div>
                                        </div>
                                     </div>
-                                 </div>
+                                 </div> -->
                                  <!-- <div class="item">
                                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 item">
                                        <div class="portfolio-item">
@@ -646,18 +722,18 @@
                                        </div>
                                     </div>
                                  </div> -->
-                              </div>
+                            <!--   </div>
                            </div>
                            <div class="clearfix"></div>
                         </div>
                      </div>
                   </div>
-               </div>
-            </div>
+               </div> -->
+            <!-- </div> --> -->
             <!-- Recent work end-->
                          
               <!-- Our Clients Start-->
-            <div class="our-clients">
+            <div class="our-clients" style="height:200px;">
                <div class="container">
                   <div class="row">
                      <div class="client">
@@ -670,9 +746,9 @@
                                     <a class="next" href="#client-carousel" data-slide="next"><i class="fa fa-angle-right"></i></a>
                                     <div class="clearfix"></div>
                                  </div> -->
-                              </div>
+                              </div><br>
                               <div class="clearfix"></div>
-                               <h3 class="title">Our Clients</h3>
+                               <center><h3 class="title">Our Clients</h3></center>
                               <div class="row">
                                  <div id="client-carousel" class="client-carousel carousel slide">
                                     <div class="carousel-inner">
@@ -681,19 +757,19 @@
                                              <div class="item-inner"><a href="#"><img alt="" src="{{asset('public/img/clientslogo/logo-1.png')}}"></a></div>
                                           </div> -->
                                           <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6 item animate_afc d2">
-                                             <div class="item-inner"><a href="#"><img alt="" src="{{asset('public/img/clientslogo/logo-5.png')}}"></a></div>
+                                             <div class="item-inner"><a href="#"><img alt="" src="{{asset('public/img/12.png')}}"></a></div>
                                           </div>
                                           <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6 item animate_afc d3">
-                                             <div class="item-inner"><a href="#"><img alt="" src="{{asset('public/img/clientslogo/logo-3.png')}}"></a></div>
+                                             <div class="item-inner"><a href="#"><img alt="" src="{{asset('public/img/13.png')}}"></a></div>
                                           </div>
                                           <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6 item animate_afc d4">
-                                             <div class="item-inner"><a href="#"><img alt="" src="{{asset('public/img/clientslogo/logo-4.png')}}"></a></div>
+                                             <div class="item-inner"><a href="#"><img alt="" src="{{asset('public/img/14.png')}}"></a></div>
                                           </div>
                                           <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6 item animate_afc d5">
                                              <div class="item-inner"><a href="#"><img alt="" src="{{asset('public/img/clientslogo/logo-5.png')}}"></a></div>
                                           </div>
                                           <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6 item animate_afc d6">
-                                             <div class="item-inner"><a href="#"><img alt="" src="{{asset('public/img/clientslogo/logo-2.png')}}"></a></div>
+                                             <div class="item-inner"><a href="#"><img alt="" src="{{asset('public/img/12.png')}}"></a></div>
                                           </div>
                                        </div>
                                        <div class="item">
