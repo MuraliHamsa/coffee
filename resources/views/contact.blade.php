@@ -53,24 +53,24 @@
                      </div>
                      <div class="col-lg-4 col-md-4 col-xs-12 col-sm-6">
                         <div class="address widget">
-                           <h3 class="title">USA</h3>
+                           <h3 class="title">Bengaluru</h3>
                            <ul class="contact-us">
                               <li>
                                  <i class="fa fa-map-marker"></i>
+                                 <p> 
+                                 <strong class="contact-pad" style="color: white;">Address:</strong> #9, 2ndFloor,Ganganagar,<br>International Airport Road,RT Nagar,<br>Bangalore - 560032.
+                              </p>
+                              </li>
+                              <li>
+                                 <i class="fa fa-envelope"></i>
                                  <p>
-                                    <strong class="contact-pad">Address:</strong><address>L300, E Royal Lane, Suite 127, Irving-Texas,<br>  TX 75039, USA.</address>
+                                    <strong>Email:</strong><a href="#">info@numiclix.in</a>
                                  </p>
                               </li>
                               <li>
                                  <i class="fa fa-envelope"></i>
                                  <p>
-                                    <strong>Email:</strong><a href="#">info@xproteanpro.in</a>
-                                 </p>
-                              </li>
-                              <li>
-                                 <i class="fa fa-envelope"></i>
-                                 <p>
-                                    <strong>Email:</strong><a href="#">career@xproteanpro.in</a>
+                                    <strong>Email:</strong><a href="#">info@numiclix.in</a>
                                  </p>
                               </li>
                            </ul>

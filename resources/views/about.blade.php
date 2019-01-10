@@ -91,7 +91,7 @@
                               <h4>AGRICULTURE INDUSTRY </h4>
                               <p>
                                  A recent survey has proved that three out of four marketers voted for direct mail marketing as the most powerful channel for generating quality leads.
-Through Lake Global Reach Data’s agriculture mailing list you can reach business professionals from industries such as farming, livestock production, agriculture, landscaping and forestry services.
+Through Pro Accurate Data’s agriculture mailing list you can reach business professionals from industries such as farming, livestock production, agriculture, landscaping and forestry services.
 .
                               </p>
                            </div>
@@ -110,7 +110,7 @@ Through Lake Global Reach Data’s agriculture mailing list you can reach busine
                            <div class="content-box-info">
                               <h4>EDUCATION INDUSTRY MAILING</h4>
                               <p>
-                                Lake Global Reach Data provides the most accurate and latest education mailing list that consists of contact details of all the decision makers in the education industry. We provide a safe and undated mailing list that will help in rolling out your direct marketing campaigns and generate quality leads.
+                                Pro Accurate Data provides the most accurate and latest education mailing list that consists of contact details of all the decision makers in the education industry. We provide a safe and undated mailing list that will help in rolling out your direct marketing campaigns and generate quality leads.
                               </p>
                            </div>
                         </div>
@@ -128,7 +128,7 @@ Through Lake Global Reach Data’s agriculture mailing list you can reach busine
                            <div class="content-box-info">
                               <h4>HOSPITALITY MAILING</h4>
                               <p>
-                                 Reach Hospitality Industry decision makers and senior professionals with Lake Global Reach Data’s highly responsive and updated Hospitality Industry business mailing list. Lake Global Reach Data’s hospitality companies email list has proven to be successful for database marketing to Hospitality Industry contacts as well as direct mail.
+                                 Reach Hospitality Industry decision makers and senior professionals with Pro Accurate Data’s highly responsive and updated Hospitality Industry business mailing list. Pro Accurate Data’s hospitality companies email list has proven to be successful for database marketing to Hospitality Industry contacts as well as direct mail.
                               </p>
                            </div>
                         </div>
@@ -148,7 +148,7 @@ Through Lake Global Reach Data’s agriculture mailing list you can reach busine
                            <div class="content-box-info">
                               <h4>MEDICAL DEVICE MANUFACTURING COMPANIES</h4>
                               <p>
-                                 Lake Global Reach Data provides email and direct mail marketing solutions for delivering your message to healthcare professionals. We eliminate campaign response which results in frustrated sales & marketing professionals. Know how? We are consistent in data accuracy, which means data that we gather goes through strict compilation process. Through this, we keep the procedure of continuously improving data quality.
+                                 Pro Accurate Data provides email and direct mail marketing solutions for delivering your message to healthcare professionals. We eliminate campaign response which results in frustrated sales & marketing professionals. Know how? We are consistent in data accuracy, which means data that we gather goes through strict compilation process. Through this, we keep the procedure of continuously improving data quality.
                               </p>
                            </div>
                         </div>
@@ -166,7 +166,7 @@ Through Lake Global Reach Data’s agriculture mailing list you can reach busine
                            <div class="content-box-info">
                               <h4>Biotechnology Email </h4>
                               <p>
-                                 Biotechnology is a rising field within the healthcare sector. An industry based on cutting edge of advances are as interested in the latest scientific advances as they are in the most current stock market reports. Among most direct marketing strategies, email marketing has been proved as the best and easy of reaching the prospects. Lake Global Reach Data has a proud history in providing top-notch marketing solutions and our biotechnology mailing list will sure set your sales target on fire!
+                                 Biotechnology is a rising field within the healthcare sector. An industry based on cutting edge of advances are as interested in the latest scientific advances as they are in the most current stock market reports. Among most direct marketing strategies, email marketing has been proved as the best and easy of reaching the prospects. Pro Accurate Data has a proud history in providing top-notch marketing solutions and our biotechnology mailing list will sure set your sales target on fire!
 .
                               </p>
                            </div>

@@ -69,8 +69,8 @@
                <div class="slidedown collapse">
                   <div class="container">
                      <div class="phone-email pull-left">
-                        <a><i class="fa fa-envelope"></i> Email : info@xproteanpro.in</a>
-                        <a href="support%40fifothemes.html"><i class="fa fa-envelope"></i> Email :  career@xproteanpro.in</a>
+                        <a><i class="fa fa-envelope"></i> Email : info@numiclix.in</a>
+                       <!--  <a href="support%40fifothemes.html"><i class="fa fa-envelope"></i> Email :  career@xproteanpro.in</a> -->
                      </div>
                 <!--      <div class="pull-right">
                         <ul class="social pull-left">
@@ -104,7 +104,7 @@
                   <div class="logo pull-left">
                      <h1>
                         <a href="{{ url('/home') }}">
-                        <img src="{{asset('public/img/yadav.png')}}" alt="pixma" width="200" height="70">
+                        <img src="{{asset('public/img/logo4.png')}}" alt="pixma" width="200" height="70">
                         </a>
                      </h1>
                   </div>
@@ -263,16 +263,16 @@
                            <li>
                               <i class="fa fa-map-marker" style="color: #ce3017;"></i>
                               <p> 
-                                 <strong class="contact-pad" style="color: white;">Address:</strong> L300, E Royal Lane, Suite 127, Irving-Texas,<br>  TX 75039, USA.
+                                 <strong class="contact-pad" style="color: white;">Address:</strong> #9, 2ndFloor,Ganganagar,<br>International Airport Road,RT Nagar,<br>Bangalore - 560032.
                               </p>
                            </li>
                            <li>
                              <i class="fa fa-envelope"  style="color: #ce3017;"></i>
-                              <p><strong style="color: white;">Email:</strong><a href="#">info@xproteanpro.in </a></p>
+                              <p><strong style="color: white;">Email:</strong><a href="#">info@numiclix.in</a></p>
                            </li>
                            <li>
                               <i class="fa fa-envelope"  style="color: #ce3017;"></i>
-                              <p><strong style="color: white;">Email:</strong><a href="#">career@xproteanpro.in</a></p>
+                              <p><strong style="color: white;">Email:</strong><a href="#">info@numiclix.in</a></p>
                            </li>
                         </ul>
                      </section>

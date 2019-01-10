@@ -37,7 +37,7 @@
                            data-y="300" 
                            data-x="50">
                            <!-- <div class="list-slide"> -->
-                               <img src="{{asset('public/img/logo3.png')}}" alt="iMac Responsive" width="100px" height="100px">
+                               <img src="{{asset('public/img/logo4.png')}}" alt="iMac Responsive" width="300px" height="200px">
 
                               <!-- <h3 class="list-slide" style="color: #165b71;"> We Create The Opportunities</h3> -->
                            <!-- </div> -->
@@ -202,9 +202,9 @@
                            </div>
 
                            <div class="content-box-info">
-                              <h4>Lake Global Reach Data’s Industry</h4>
+                              <h4>Pro Accurate Data’s Industry</h4>
                               <p>
-                                 Lake Global Reach Data is the most successful brand in providing authentic and accurate mailing lists. Our Industry Mailing lists cover more than 100 industries to enable successful sales and marketing campaigns.
+                                 Pro Accurate Data is the most successful brand in providing authentic and accurate mailing lists. Our Industry Mailing lists cover more than 100 industries to enable successful sales and marketing campaigns.
                               </p>
                            </div>
                         </div>
@@ -260,7 +260,7 @@
                            <div class="content-box-info">
                               <h4>Telecom Decision Makers</h4>
                               <p>
-                                 Lake Global Reach Data highly targeted Telecom Decision Makers Mailing List has been developed by closely interacting within the top industry sources to develop a marketing strategy promising increased deliverability. Staying on the top within the industry requires collecting influential information like the who’s who, which’s where and how to reach them quickly and effectively.
+                                 Pro Accurate Data highly targeted Telecom Decision Makers Mailing List has been developed by closely interacting within the top industry sources to develop a marketing strategy promising increased deliverability. Staying on the top within the industry requires collecting influential information like the who’s who, which’s where and how to reach them quickly and effectively.
                               </p>
                            </div>
                         </div>
@@ -296,7 +296,7 @@
                            <div class="content-box-info">
                               <h4>BEAUTY INDUSTRY</h4>
                               <p>
-                                 Those who are concerned about beauty and cosmetics want to look and feel radiant all day long. If you have any products and services to sell to the companies, you can avail Lake Global Reach  Data’s beauty and cosmetics mailing list and reach your target market with at most ease.
+                                 Those who are concerned about beauty and cosmetics want to look and feel radiant all day long. If you have any products and services to sell to the companies, you can avail Pro Accurate Data beauty and cosmetics mailing list and reach your target market with at most ease.
                               </p>
                            </div>
                         </div>
@@ -335,7 +335,7 @@
                            <div class="content-box-info">
                               <h4>ADVERTISING MEDIA</h4>
                               <p>
-                               Lake Global Reach Data can be the answer for all your queries to generate effective leads and branding activities. And targeting to this section of executives would be easier than ever with Lake Global Reach Data’s targeted advertising and media mailing list. Updated quarterly to provide the most, timely accurate information and all our list of advertising agencies mailing databases cover key industries from Design to Retail.
+                               Pro Accurate Data can be the answer for all your queries to generate effective leads and branding activities. And targeting to this section of executives would be easier than ever with Pro Accurate Data’s targeted advertising and media mailing list. Updated quarterly to provide the most, timely accurate information and all our list of advertising agencies mailing databases cover key industries from Design to Retail.
                               </p>
                            </div>
                         </div>
@@ -353,7 +353,7 @@
                            <div class="content-box-info">
                               <h4>AUTOMOBILE INDUSTRY</h4>
                               <p>
-                                Direct Mailing marketing has been one of the supreme tools of direct marketing services, which gains an upper hand while approaching and serving an industry like automotive. At Lake Global Reach Data we acknowledge the same fact and strive to bring an all comprehensive list including all major marketing details so that marketers can reach key decision makers with in half the duration claimed by others.
+                                Direct Mailing marketing has been one of the supreme tools of direct marketing services, which gains an upper hand while approaching and serving an industry like automotive. At Pro Accurate Data we acknowledge the same fact and strive to bring an all comprehensive list including all major marketing details so that marketers can reach key decision makers with in half the duration claimed by others.
 
                               </p>
                            </div>
@@ -379,10 +379,10 @@
                                     <div class="service service-1">
                                        <div class="cn-content">
                                           <h4>BUSINESS SERVICES INDUSTRY EXECUTIVES LIST</h4>
-                                          <p> Lake Global Reach Data Services’ Business Services Industry Executives List offers sales teams the ability to connect with the decision makers involved in delivering business services to multiple industries. This list helps you skip all the unwanted people who come on your way to connect with the actual decision makers of the company.
+                                          <p> Pro Accurate Data Services’ Business Services Industry Executives List offers sales teams the ability to connect with the decision makers involved in delivering business services to multiple industries. This list helps you skip all the unwanted people who come on your way to connect with the actual decision makers of the company.
 
 We are among the front runners in possessing the most updated contacts of prospective customers and business technology users. 
-The fields covered by Lake Global Reach Data include complete contact details like:
+The fields covered by Pro Accurate Data include complete contact details like:
 </p>
                                           <!-- <a href="#">Read More <i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></a> -->
                                           <div class="clearfix"></div>
@@ -404,7 +404,7 @@ The fields covered by Lake Global Reach Data include complete contact details li
                                           <h4>EDUCATION INDUSTRY MAILING LIST</h4>
                                           <p>If you wish to target educational institutions worldwide that offer academic and professional courses, then contact Mail Prospects’ for its exclusive Education Sector/industry mailing list. Our customized education industry mailing list can enable you to reach thousands of decision makers or the executives within the education industry worldwide.
 
-Lake Global Reach Data provides the most accurate and latest education mailing list that consists of contact details of all the decision makers in the education industry. We provide a safe and undated mailing list that will help in rolling out your direct marketing campaigns and generate quality leads.
+Pro Accurate Data provides the most accurate and latest education mailing list that consists of contact details of all the decision makers in the education industry. We provide a safe and undated mailing list that will help in rolling out your direct marketing campaigns and generate quality leads.
 </p>
                                           <!-- <a href="#">Read More <i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></a> -->
                                        </div>
@@ -423,7 +423,7 @@ IT jobs in the United States are expected to grow much faster than other employm
                                     <div class="service service-5">
                                        <div class="cn-content">
                                           <h4>Food and Beverage Mailing List</h4>
-                                          <p> If you’ve been looking at marketing your products to the Food and Beverage industry, Lake Global Reach Data can immeasurably ease the pain of launching a campaign. Our comprehensive business mailing lists will give you the ability to effortlessly reach out to food and beverage industry executives without the time and labor-intensive process of prospecting. And reaching out to executives is perhaps the most vital part of any Lake Global Reach sales campaign, especially one aimed at the Food and Beverage industry.</p>
+                                          <p> If you’ve been looking at marketing your products to the Food and Beverage industry, Pro Accurate Data can immeasurably ease the pain of launching a campaign. Our comprehensive business mailing lists will give you the ability to effortlessly reach out to food and beverage industry executives without the time and labor-intensive process of prospecting. And reaching out to executives is perhaps the most vital part of any Pro Accurate Data sales campaign, especially one aimed at the Food and Beverage industry.</p>
                                           <!-- <a href="#">Read More <i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></a> -->
                                        </div>
                                        <div class="clearfix"></div>
@@ -431,8 +431,8 @@ IT jobs in the United States are expected to grow much faster than other employm
                                     <div class="service service-6">
                                        <div class="cn-content">
                                           <h4>HEALTHCARE EXECUTIVES EMAIL LIST</h4>
-                                          <p>When you choose Lake Global Reach Data as your health care list vendor, we give you access to the decisions makers in healthcare institutions across North America, Europe, Asia and Australia. We’ll also segment your healthcare mailing list on the basis of several selects including,
-Lake Global Reach Data’s Healthcare email database can massively extend your marketing coverage of the healthcare industry in the Northern Hemisphere. Our health care lists are unsurpassed in terms of reach and place hundreds of thousands of key healthcare executives at your fingertips. Furthermore, you can narrow down your target markets and create customized marketing material aimed at specific industry divisions, </p>
+                                          <p>When you choose Pro Accurate Data as your health care list vendor, we give you access to the decisions makers in healthcare institutions across North America, Europe, Asia and Australia. We’ll also segment your healthcare mailing list on the basis of several selects including,
+Pro Accurate Data’s Healthcare email database can massively extend your marketing coverage of the healthcare industry in the Northern Hemisphere. Our health care lists are unsurpassed in terms of reach and place hundreds of thousands of key healthcare executives at your fingertips. Furthermore, you can narrow down your target markets and create customized marketing material aimed at specific industry divisions, </p>
                                           <!-- <a href="#">Read More <i class="fa fa-angle-right"></i><i class="fa fa-angle-right"></i></a> -->
                                        </div>
                                        <div class="clearfix"></div>
