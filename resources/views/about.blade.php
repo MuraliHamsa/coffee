@@ -21,7 +21,7 @@
 
                      <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 animate_afr">
                                  <!-- <img src="{{asset('public/img/team/team.jpg')}}" alt=""> -->
-                      <img src="{{asset('public/img/slider/slider-bg-11.jpg')}}">
+                      <img src="{{asset('public/img/about.png')}}" height="400px;">
                   </div>
                   <div class="row">
                      <div class="posts-block col-lg-8 col-md-8 col-sm-6 col-xs-12">
@@ -43,16 +43,16 @@
                      <div class="skills col-lg-4 col-md-4 col-sm-6 col-xs-12">
                         <h3 class="title">Our Expertise</h3>
                         <div class="progress">
-                           <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%;">MINING INDUSTRY</div>
+                           <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%;">HEALTHCARE EXECUTIVES EMAIL LIST</div>
                         </div>
                         <div class="progress">
-                           <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width: 65%;">INSURANCE SERVICE INDUSTRY</div>
+                           <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width: 65%;">REAL ESTATE INDUSTRY MAILING LIST </div>
                         </div>
                         <div class="progress">
-                           <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">ADVERTISING MEDIA</div>
+                           <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">Manufacturing Industry Mailing List</div>
                         </div>
                         <div class="progress">
-                           <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">Printing and Publishing Industry</div>
+                           <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">IT Executives List</div>
                         </div>
                       <!--   <div class="progress">
                            <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">Marketing</div>
@@ -88,11 +88,9 @@
                            </div>
 
                            <div class="content-box-info">
-                              <h4>AGRICULTURE INDUSTRY </h4>
+                              <h4>HEALTHCARE EXECUTIVES EMAIL LIST </h4>
                               <p>
-                                 A recent survey has proved that three out of four marketers voted for direct mail marketing as the most powerful channel for generating quality leads.
-Through Pro Accurate Data’s agriculture mailing list you can reach business professionals from industries such as farming, livestock production, agriculture, landscaping and forestry services.
-.
+                                 When you choose Pro Accurate Data as your health care list vendor, we give you access to the decisions makers in healthcare institutions across North America, Europe, Asia and Australia. We’ll also segment your healthcare mailing list on the basis of several selects including, 
                               </p>
                            </div>
                         </div>
@@ -108,9 +106,11 @@ Through Pro Accurate Data’s agriculture mailing list you can reach business pr
                               </div>
                            </div>
                            <div class="content-box-info">
-                              <h4>EDUCATION INDUSTRY MAILING</h4>
+                              
+                               <h4>REAL ESTATE INDUSTRY MAILING LIST </h4>
                               <p>
-                                Pro Accurate Data provides the most accurate and latest education mailing list that consists of contact details of all the decision makers in the education industry. We provide a safe and undated mailing list that will help in rolling out your direct marketing campaigns and generate quality leads.
+                                 There are a variety of reasons why one would need a comprehensive real estate agents list. Maybe you are looking forward to taking advantage of business-to-business marketing and offer a service valuable to real estate agents. Or, you are in need of moving real estate business in the unknown areas.    
+.
                               </p>
                            </div>
                         </div>
@@ -164,10 +164,9 @@ Through Pro Accurate Data’s agriculture mailing list you can reach business pr
                               </div>
                            </div>
                            <div class="content-box-info">
-                              <h4>Biotechnology Email </h4>
+                             <h4>EDUCATION INDUSTRY MAILING</h4>
                               <p>
-                                 Biotechnology is a rising field within the healthcare sector. An industry based on cutting edge of advances are as interested in the latest scientific advances as they are in the most current stock market reports. Among most direct marketing strategies, email marketing has been proved as the best and easy of reaching the prospects. Pro Accurate Data has a proud history in providing top-notch marketing solutions and our biotechnology mailing list will sure set your sales target on fire!
-.
+                                Pro Accurate Data provides the most accurate and latest education mailing list that consists of contact details of all the decision makers in the education industry. We provide a safe and undated mailing list that will help in rolling out your direct marketing campaigns and generate quality leads.
                               </p>
                            </div>
                         </div>
@@ -183,9 +182,9 @@ Through Pro Accurate Data’s agriculture mailing list you can reach business pr
                               </div>
                            </div>
                            <div class="content-box-info">
-                              <h4>24/7 Support</h4>
+                              <h4>IT Executives List</h4>
                               <p>
-                                 provides around the clock professional customer support services and complete call center operations. Our client base consists of a wide range of international companies that are specializing in various industries.
+                                 Buy Prepackaged & Customized IT Executives List, IT Decision Makers Lists and IT Executives Mailing List By SIC Code That Let You Reach Targeted Markets In The USA, UK, Canada, Europe & Australia! IT jobs in the United States are expected to grow much faster than other employment avenues, and will represent a sizable chunk of the economy.
                               </p>
                            </div>
                         </div>

@@ -51,7 +51,7 @@
                            data-x="40">
                            <div class="list-slide">
                               <!-- <i class="fa fa-code slide-icon"></i> -->
-                              <h3 class="dblue" style="color:white;"> Welcome to Pro Accurate Data </h3>
+                              <h3 class="dblue" style="color:blue;"> Welcome to Pro Accurate Data </h3>
                            </div>
                         </div>
                         <!-- <div class="caption lfb caption_button_1 fadeout tp-caption start pull-right"
@@ -156,7 +156,7 @@
                            data-speed="300"
                            data-start="1400"
                            data-easing="easeOutExpo">
-                           <img src="{{asset('public/img/1.jpeg')}}" alt="iMac Responsive" width="300px" height="200px">
+                           <img src="{{asset('public/img/121.jpg')}}" alt="iMac Responsive" width="300px" height="200px">
                         </div>
                         <div class="caption lfl"
                            data-x="323"
@@ -164,7 +164,7 @@
                            data-speed="300"
                            data-start="1500"
                            data-easing="easeOutExpo">
-                           <img src="{{asset('public/img/2.jpg')}}" alt="iPad Responsive" width="300px" height="200px">
+                           <img src="{{asset('public/img/122.jpg')}}" alt="iPad Responsive" width="300px" height="200px">
                         </div>
                         <!-- <div class="caption lfl"
                            data-x="472"
@@ -220,10 +220,8 @@
                               </div>
                            </div>
                            <div class="content-box-info">
-                              <h4>Oil and Gas Industry Mailing List</h4>
-                              <p>
-                               The Oil and Gas Industry is one among the biggest and the most lucrative fields in the world economy, which contributes higher GDP of developing countries. However, the Oil and Gas industry is faced with many challenges as the demand for exploration, production and transportation increases. 
-                              </p>
+                              <h4>HEALTHCARE EXECUTIVES EMAIL LIST</h4>
+                                          <p>When you choose Pro Accurate Data as your health care list vendor, we give you access to the decisions makers in healthcare institutions across North America, Europe, Asia and Australia. We’ll also segment your healthcare mailing list on the basis of several selects including, </p>
                            </div>
                         </div>
                      </div>
@@ -238,9 +236,9 @@
                               </div>
                            </div>
                            <div class="content-box-info">
-                              <h4>Printing and Publishing Industry</h4>
+                               <h4>Manufacturing Industry Mailing List</h4>
                               <p>
-                                 The printing and publishing industry is one of the employment generating industries in the world. It can also be said as the oldest business where people started it out with publishing houses. Today, the technology has seeped into digital publishing taking up much of the revenue stream.
+                                 Much of industrial marketing depends on contacting upper level management and presenting your sales pitch to them. However, instead of wading through a sea of junior corporate bureaucrats until you’re finally admitted into the inner sanctum, we propose an easier, faster and more cost-effective way to get in touch with top manufacturing executives – targeted direct marketing. 
                               </p>
                            </div>
                         </div>
@@ -258,9 +256,11 @@
                               </div>
                            </div>
                            <div class="content-box-info">
-                              <h4>Telecom Decision Makers</h4>
+                              
+                              <h4>REAL ESTATE INDUSTRY MAILING LIST</h4>
                               <p>
-                                 Pro Accurate Data highly targeted Telecom Decision Makers Mailing List has been developed by closely interacting within the top industry sources to develop a marketing strategy promising increased deliverability. Staying on the top within the industry requires collecting influential information like the who’s who, which’s where and how to reach them quickly and effectively.
+                                There are a variety of reasons why one would need a comprehensive real estate agents list. Maybe you are looking forward to taking advantage of business-to-business marketing and offer a service valuable to real estate agents. Or, you are in need of moving real estate business in the unknown areas.  
+
                               </p>
                            </div>
                         </div>
@@ -294,9 +294,10 @@
                               </div>
                            </div>
                            <div class="content-box-info">
-                              <h4>BEAUTY INDUSTRY</h4>
+                             
+                              <h4>Printing and Publishing Industry</h4>
                               <p>
-                                 Those who are concerned about beauty and cosmetics want to look and feel radiant all day long. If you have any products and services to sell to the companies, you can avail Pro Accurate Data beauty and cosmetics mailing list and reach your target market with at most ease.
+                                 The printing and publishing industry is one of the employment generating industries in the world. It can also be said as the oldest business where people started it out with publishing houses. Today, the technology has seeped into digital publishing taking up much of the revenue stream.
                               </p>
                            </div>
                         </div>
@@ -351,10 +352,9 @@
                               </div>
                            </div>
                            <div class="content-box-info">
-                              <h4>AUTOMOBILE INDUSTRY</h4>
+                             <h4>Telecom Decision Makers</h4>
                               <p>
-                                Direct Mailing marketing has been one of the supreme tools of direct marketing services, which gains an upper hand while approaching and serving an industry like automotive. At Pro Accurate Data we acknowledge the same fact and strive to bring an all comprehensive list including all major marketing details so that marketers can reach key decision makers with in half the duration claimed by others.
-
+                                 Pro Accurate Data highly targeted Telecom Decision Makers Mailing List has been developed by closely interacting within the top industry sources to develop a marketing strategy promising increased deliverability. Staying on the top within the industry requires collecting influential information like the who’s who, which’s where and how to reach them quickly and effectively.
                               </p>
                            </div>
                         </div>

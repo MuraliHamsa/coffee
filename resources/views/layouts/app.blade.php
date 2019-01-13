@@ -69,7 +69,7 @@
                <div class="slidedown collapse">
                   <div class="container">
                      <div class="phone-email pull-left">
-                        <a><i class="fa fa-envelope"></i> Email : info@numiclix.in</a>
+                        <a><i class="fa fa-envelope"></i> Email : Info@proaccuratedata.com</a>
                        <!--  <a href="support%40fifothemes.html"><i class="fa fa-envelope"></i> Email :  career@xproteanpro.in</a> -->
                      </div>
                 <!--      <div class="pull-right">
@@ -263,16 +263,16 @@
                            <li>
                               <i class="fa fa-map-marker" style="color: #ce3017;"></i>
                               <p> 
-                                 <strong class="contact-pad" style="color: white;">Address:</strong> #9, 2ndFloor,Ganganagar,<br>International Airport Road,RT Nagar,<br>Bangalore - 560032.
+                                 <strong class="contact-pad" style="color: white;">Address:</strong> #5, 14th Main Road, 15th Cross Rd,<br> HSR Layout, Sector 4, HSR Layout,<br> Bengaluru, Karnataka 560102
                               </p>
                            </li>
                            <li>
                              <i class="fa fa-envelope"  style="color: #ce3017;"></i>
-                              <p><strong style="color: white;">Email:</strong><a href="#">info@numiclix.in</a></p>
+                              <p><strong style="color: white;">Email:</strong><a href="#">Info@proaccuratedata.com</a></p>
                            </li>
                            <li>
                               <i class="fa fa-envelope"  style="color: #ce3017;"></i>
-                              <p><strong style="color: white;">Email:</strong><a href="#">info@numiclix.in</a></p>
+                              <p><strong style="color: white;">Email:</strong><a href="#">Info@proaccuratedata.com</a></p>
                            </li>
                         </ul>
                      </section>
