@@ -15,7 +15,7 @@
                         <h4>Through the era of Data-Driven Marketing</h4>
                         <p>
                           Since the early 1990s, Traditional Marketing slowly started fading away from the sales equation and Internet Marketing started replacing it. Eventually, almost every other entrepreneur started using the internet to promote, market, and sell their products and services. Within a short span of time, internet and its elements became of utmost important to every human being.  Today, marketing has become Data-Driven Marketing, where data plays the most important role.
-                          Ever since then, CarlsonsMedia has grown from a small basement establishment into a million dollar organization. Today, for many Fortune 500 companies, when it comes to data, the first name that pops into their minds is CarlsonsMedia. With many years of expertise in B2B database marketing, CarlsonsMedia is one among the best data vendors in the data market.
+                          Ever since then,  Proaccurate Data has grown from a small basement establishment into a million dollar organization. Today, for many Fortune 500 companies, when it comes to data, the first name that pops into their minds is  Proaccurate Data. With many years of expertise in B2B database marketing,  Proaccurate Data is one among the best data vendors in the data market.
                         </p>
                      </div>
 

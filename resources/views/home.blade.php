@@ -51,8 +51,11 @@
                            data-x="40">
                            <div class="list-slide">
                               <!-- <i class="fa fa-code slide-icon"></i> -->
-                              <h3 class="dblue" style="color:blue;"> Welcome to Pro Accurate Data </h3>
+                              <h3 class="dblue" style="color:#444444;text-shadow: 0 0 5px #A5F1FF, 0 0 10px #A5F1FF,
+             0 0 20px #A5F1FF, 0 0 30px #A5F1FF,
+             0 0 40px #A5F1FF;"> Welcome to Pro Accurate Data </h3>
                            </div>
+                          
                         </div>
                         <!-- <div class="caption lfb caption_button_1 fadeout tp-caption start pull-right"
                            data-x="40"
