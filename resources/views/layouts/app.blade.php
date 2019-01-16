@@ -70,7 +70,7 @@
                   <div class="container">
                      <div class="phone-email pull-left">
                         <a><i class="fa fa-envelope"></i> Email : Info@proaccuratedata.com</a>
-                       <!--  <a href="support%40fifothemes.html"><i class="fa fa-envelope"></i> Email :  career@xproteanpro.in</a> -->
+                        <a href="support%40fifothemes.html"><i class="fa fa-envelope"></i> Email :  john.walker@proaccuratedata.com</a>
                      </div>
                 <!--      <div class="pull-right">
                         <ul class="social pull-left">
@@ -272,7 +272,7 @@
                            </li>
                            <li>
                               <i class="fa fa-envelope"  style="color: #ce3017;"></i>
-                              <p><strong style="color: white;">Email:</strong><a href="#">Info@proaccuratedata.com</a></p>
+                              <p><strong style="color: white;">Email:</strong><a href="#">john.walker@proaccuratedata.com</a></p>
                            </li>
                         </ul>
                      </section>

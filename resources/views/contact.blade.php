@@ -70,7 +70,7 @@
                               <li>
                                  <i class="fa fa-envelope"></i>
                                  <p>
-                                    <strong>Email:</strong><a href="#">Info@proaccuratedata.com</a>
+                                    <strong>Email:</strong><a href="#">john.walker@proaccuratedata.com</a>
                                  </p>
                               </li>
                            </ul>
