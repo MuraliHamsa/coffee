@@ -58,7 +58,7 @@
                               <li>
                                  <i class="fa fa-map-marker"></i>
                                  <p> 
-                                 <strong class="contact-pad" style="color: white;">Address:</strong> #5, 14th Main Road, 15th Cross Rd,<br> HSR Layout, Sector 4, HSR Layout,<br> Bengaluru, Karnataka 560102
+                                 <strong class="contact-pad" style="color: white;">Address:</strong> L300, E Royal Lane, Suite 127,<br> Irving-Texas,<br> TX 75039, USA.
                               </p>
                               </li>
                               <li>

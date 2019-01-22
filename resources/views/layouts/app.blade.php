@@ -268,7 +268,7 @@
                            <li>
                               <i class="fa fa-map-marker" style="color: #ce3017;"></i>
                               <p> 
-                                 <strong class="contact-pad" style="color: white;">Address:</strong> L300, E Royal Lane, Suite 127 <br> Lrving-Texas,<br> TX 75039, USA
+                                 <strong class="contact-pad" style="color: white;">Address:</strong> L300, E Royal Lane, Suite 127 <br> Irving-Texas,<br> TX 75039, USA.
                               </p>
                            </li>
                            <li>
