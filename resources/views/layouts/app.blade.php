@@ -268,7 +268,7 @@
                            <li>
                               <i class="fa fa-map-marker" style="color: #ce3017;"></i>
                               <p> 
-                                 <strong class="contact-pad" style="color: white;">Address:</strong> #5, 14th Main Road, 15th Cross Rd,<br> HSR Layout, Sector 4, HSR Layout,<br> Bengaluru, Karnataka 560102
+                                 <strong class="contact-pad" style="color: white;">Address:</strong> L300, E Royal Lane, Suite 127 <br> Lrving-Texas,<br> TX 75039, USA
                               </p>
                            </li>
                            <li>
@@ -298,7 +298,7 @@
             <div class="footer-bottom">
                <div class="container">
                   <div class="row">
-                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6 " style="color: white;">©2019 ALL RIGHTS RESERVED Pro Accurate Data  Designed by <a href="https://www.linkedin.com/in/murali-yadav-k-n-312659126">Murali Yadav</a></div>
+                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6 " style="color: white;">©2019 ALL RIGHTS RESERVED Pro Accurate Data  <!-- Designed by <a href="https://www.linkedin.com/in/murali-yadav-k-n-312659126">Murali Yadav</a> --></div>
                    <!--   <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6 ">
                         <ul class="social social-icons-footer-bottom">
                            <li class="facebook"><a href="#" data-toggle="tooltip" title="Facebook"><i class="fa fa-facebook"></i></a></li>
