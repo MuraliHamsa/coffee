@@ -71,6 +71,10 @@
                      <div class="phone-email pull-left">
                         <a><i class="fa fa-envelope"></i> Email : Info@proaccuratedata.com</a>
                         <a href="support%40fifothemes.html"><i class="fa fa-envelope"></i> Email :  john.walker@proaccuratedata.com</a>
+
+                              
+                              <a href="#"><i class="fa fa-phone"  style="color: #ce3017;"></i>Phone : +1 (929) 207-9590</a>
+                           
                      </div>
                 <!--      <div class="pull-right">
                         <ul class="social pull-left">
@@ -275,6 +279,10 @@
                               <i class="fa fa-envelope"  style="color: #ce3017;"></i>
                               <p><strong style="color: white;">Email:</strong><a href="#">john.walker@proaccuratedata.com</a></p>
                            </li>
+                            <li>
+                              <i class="fa fa-phone"  style="color: #ce3017;"></i>
+                              <p><strong style="color: white;">Phone:</strong><a href="#">+1 (929) 207-9590</a></p>
+                           </li>
                         </ul>
                      </section>
                      
@@ -290,7 +298,7 @@
             <div class="footer-bottom">
                <div class="container">
                   <div class="row">
-                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6 " style="color: white;">©2019 ALL RIGHTS RESERVED Pro Accurate Data </div>
+                     <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6 " style="color: white;">©2019 ALL RIGHTS RESERVED Pro Accurate Data  Designed by <a href="https://www.linkedin.com/in/murali-yadav-k-n-312659126">Murali Yadav</a></div>
                    <!--   <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6 ">
                         <ul class="social social-icons-footer-bottom">
                            <li class="facebook"><a href="#" data-toggle="tooltip" title="Facebook"><i class="fa fa-facebook"></i></a></li>
