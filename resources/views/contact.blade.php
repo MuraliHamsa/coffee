@@ -67,12 +67,12 @@
                                     <strong>Email:</strong><a href="#">Info@proaccuratedata.com</a>
                                  </p>
                               </li>
-                              <li>
+                             <!--  <li>
                                  <i class="fa fa-envelope"></i>
                                  <p>
                                     <strong>Email:</strong><a href="#">john.walker@proaccuratedata.com</a>
                                  </p>
-                              </li>
+                              </li> -->
                            </ul>
                         </div>
                         <!-- <div class="contact-info widget">
