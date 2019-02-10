@@ -108,7 +108,7 @@
                   <div class="logo pull-left">
                      <h1>
                         <a href="{{ url('/home') }}">
-                        <img src="{{asset('public/img/logo4.png')}}" alt="pixma" width="200" height="70">
+                        <img src="{{asset('public/img/logo.png')}}" alt="pixma" width="200" height="70">
                         </a>
                      </h1>
                   </div>
@@ -268,7 +268,7 @@
                            <li>
                               <i class="fa fa-map-marker" style="color: #ce3017;"></i>
                               <p> 
-                                 <strong class="contact-pad" style="color: white;">Address:</strong> L300, E Royal Lane, Suite 127 <br> Irving-Texas,<br> TX 75039, USA.
+                                 <strong class="contact-pad" style="color: white;">Address:</strong> 24 Ayrshire St, Bear,<br> DE-19701
                               </p>
                            </li>
                            <li>

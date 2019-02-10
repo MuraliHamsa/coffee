@@ -37,7 +37,7 @@
                            data-y="300" 
                            data-x="50">
                            <!-- <div class="list-slide"> -->
-                               <img src="{{asset('public/img/logo4.png')}}" alt="iMac Responsive" width="300px" height="200px">
+                               <img src="{{asset('public/img/logo.png')}}" alt="iMac Responsive" width="250px" height="150px">
 
                               <!-- <h3 class="list-slide" style="color: #165b71;"> We Create The Opportunities</h3> -->
                            <!-- </div> -->

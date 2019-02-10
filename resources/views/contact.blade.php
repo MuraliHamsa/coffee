@@ -58,7 +58,8 @@
                               <li>
                                  <i class="fa fa-map-marker"></i>
                                  <p> 
-                                 <strong class="contact-pad" style="color: white;">Address:</strong> L300, E Royal Lane, Suite 127,<br> Irving-Texas,<br> TX 75039, USA.
+                                 <strong class="contact-pad" style="color: white;">Address:</strong> 24 Ayrshire St, Bear,
+                                            <br>DE-19701 
                               </p>
                               </li>
                               <li>
