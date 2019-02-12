@@ -51,6 +51,29 @@
       <!--[if IE]>
       <link rel="stylesheet" href="{{asset('public/css/ie.css')}}">
       <![endif]-->
+      <style type="text/css">
+         .content{
+            -webkit-user-select: none;-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+-o-user-select: none;
+user-select: none;
+         }
+         .content-box-info{
+            -webkit-user-select: none;-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+-o-user-select: none;
+user-select: none;
+         }
+         .cn-content{
+             -webkit-user-select: none;-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+-o-user-select: none;
+user-select: none;
+         }
+      </style>
    </head>
    <body class="home">
       <div class="page-mask">
